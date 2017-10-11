@@ -4,6 +4,11 @@ import ReactDOM from 'react-dom';
 import 'css/index.css';
 import App from './containers/App';
 import registerServiceWorker from './registerServiceWorker';
+import {
+  Router
+  Route
+} from 'react-router-dom';
+
 
 
 //This is the build entry.

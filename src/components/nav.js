@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { Link } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 
 
 export default () => (
@@ -9,9 +9,9 @@ export default () => (
       <img src="http://tachyons.io/img/logo.jpg" class="dib w2 h2 br-100" alt="Site Name"></img>
     </Link>
     <div className="dtc v-mid w-75 tr">
-      <Link className="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" to="/about" title="About">About</Link>
-      <Link className="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" to="/work" title="Store">Work</Link>
-      <Link className="link dim dark-gray f6 f5-ns dib" to="https://medium.com/@TylerSchmidt/" title="Blog">Blog</Link>
+      <NavLink className="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" to="/about" title="About">About</NavLink>
+      <NavLink className="link dim dark-gray f6 f5-ns dib mr3 mr4-ns" to="/work" title="Store">Work</NavLink>
+      <NavLink className="link dim dark-gray f6 f5-ns dib" to="https://medium.com/@TylerSchmidt/" title="Blog">Blog</NavLink>
     </div>
   </nav>
 )
