@@ -1,8 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import { Router } from 'react-router';
+import 'css/index.css';
 import registerServiceWorker from './registerServiceWorker';
+import Nav from './components/nav';
+import Header from './components/header';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+
+
+
+
+//This is the build entry. (or getElementById('root'))
+ReactDOM.render ((
+    <Router>
+      <Nav />
+      <Header/>
+    </Router>
+  ),document.body)
+
+
 registerServiceWorker();
