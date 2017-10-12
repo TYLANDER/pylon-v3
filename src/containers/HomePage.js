@@ -1,11 +1,13 @@
-import React, { Component } from 'react';
-import Header from '../components/header'
+import React, { Component } from 'react'
+import StartupHero from '../components/startuphero'
+
 
 class HomePage extends Component {
   render() {
     return (
     <div>
-    <Header />
+      <h1>Homepage</h1>
+      <StartupHero />
     </div>
     );
   }

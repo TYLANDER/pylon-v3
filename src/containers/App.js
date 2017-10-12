@@ -1,9 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
-import Header from '../components/header'
-import StartupHero from '../components/startuphero'
-import Footer from '../components/footer'
+import Routes from './routes'
+import Main from './Main'
 
 
 
@@ -11,13 +10,12 @@ import Footer from '../components/footer'
 
 
 // src/containers/App.js
-// Entry point to my main container. Where I keep my routes...
+// Entry point to my main container and routes.
 const App = () => (
   <BrowserRouter>
     <div>
-      <StartupHero />
-      <Header />
-      <Footer />
+      <Routes />
+      <Main />
     </div>
   </BrowserRouter>
 )
