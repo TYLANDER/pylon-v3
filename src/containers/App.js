@@ -1,7 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
-import Main from './Main'
+import Header from '../components/header'
+import StartupHero from '../components/startuphero'
+import Footer from '../components/footer'
 
 
 
@@ -9,10 +11,14 @@ import Main from './Main'
 
 
 // src/containers/App.js
-// Where I want to house my containers
+// Entry point to my main container. Where I keep my routes...
 const App = () => (
   <BrowserRouter>
-    <Main />
+    <div>
+      <StartupHero />
+      <Header />
+      <Footer />
+    </div>
   </BrowserRouter>
 )
 ReactDOM.render(<App />, document.getElementById('root'))
