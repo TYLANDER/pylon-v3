@@ -1,54 +1,26 @@
 import React from 'react'
 
 
-
-
 //the footer component. Unstyled.
 export default () => (
 <footer className="pa4 pa5-l black-70 bt b--black-10">
   <div className="mb4-l cf">
-    <h1 className="fl w-100 pv0 f6 fw6 ttu tracked mb4">Studios</h1>
+    <h1 className="fl w-100 pv0 f6 fw6 ttu tracked mb4">Studio Location</h1>
     <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pr2 pr0-ns">
       <h4 className="f5 f4-l fw6">SF</h4>
       <span className="f7 f6-l db black-70">3440 20th St.</span>
       <span className="f7 f6-l black-70">San Francisco, CA 94110 </span>
       <a className="f6 db fw6 pv3 black-70 link dim" title="Call SF" href="tel:+12075555555">
-        +1 207-555-5555
+        +1 804-519-7677
       </a>
     </article>
-    <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pl2 pl0-ns">
-      <h4 className="f5 f4-l fw6">LA</h4>
-      <span className="f7 f6-l db black-70">
-        1111 Manor Way
-      </span>
-      <span className="f7 f6-l di black-70">
-        Los Angeles, CA 90048
-      </span>
-      <a href="tel:+13235555555" className="f6 db fw6 pv3 link dim black-70" title="Call the LA office.">
-        +1 323-555-5555
-      </a>
-    </article>
-    <article className="fl w-50 dib-ns w-auto-ns mr4-m mr5-l mb4 pr2 pr0-ns">
-      <h4 className="f5 f4-l fw6">London</h4>
-      <span className="f7 f6-l db black-70">11 Downey St.</span>
-      <span className="f7 f6-l black-70">London, UK</span>
-      <a href="tel:+5555555555" className="link dim f6 db fw6 pv3 black-70" title="Call the London office">+44 0 5555-5555</a>
-    </article>
-    <article className="fl w-50 dib-ns w-auto-ns mb4 pl2 pl0-ns">
-      <h4 className="f5 f4-l fw6">Tokyo</h4>
-      <span className="f7 f6-l db black-70">1982 Flangan Rd.</span>
-      <span className="f7 f6-l">Shinjuku, Tokyo</span>
-      <a href="tel:+444444444444" className="f6 db dim fw6 pv3 link black-70" title="Call Tokyo Office">
-        +99 5555-5555
+    <article className="mb4 mb0-ns w-100 w-50-l fr">
+      <a className="black-70 f3 f2-ns fw6 tl link dim dib pv3 mt2 mb4 mb0-l" href="mailto:tyler@pylon.design" >
+        hello@pylon.design
       </a>
     </article>
   </div>
   <section className="cf mb5">
-    <div className="mb4 mb0-ns w-100 w-50-l fr">
-      <a className="black-70 f3 f2-ns fw6 tl link dim dib pv3 mt2 mb4 mb0-l" href="mailto:hello@impossible.com" >
-        hello@pylon.design
-      </a>
-    </div>
     <div className="mb4 mb0-ns fl w-100 w-50-l" >
       <p className="f4 fw6 mb2 f6 mt0">
         Sign up for our newsletter.
