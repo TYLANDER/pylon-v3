@@ -1,9 +1,4 @@
 import React from 'react'
-import Img from 'react-image'
-
-
-
-
 
 export default () => (
   <div>
