@@ -2,7 +2,8 @@ import React from 'react'
 
 
 export default () => (
-      <ul class="list pl0">
+    <section class="flex flex-column flex-row-ns mw9 center">
+      <ul class="list pl0 center">
         <li class="pa3 pa4-ns bb b--black-10">
           <b class="db f3 mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">
@@ -63,4 +64,5 @@ export default () => (
           [High Five!]</span>
         </li>
       </ul>
+      </section>
 )

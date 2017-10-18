@@ -1,12 +1,17 @@
 import React from 'react'
+import Logo from '../images/blue_logo_101717@2x.png'
+
 
 
 //may want to add the <Link> Class here...
 export default () => (
-  <nav className="db dt-l w-100 border-box pa3 ph5-l ph5 sans-serif">
-    <a className="db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l" href="/" title="Home">
-      <svg src=".../public/images/Golden_Purple_101317" className="dib w2 h2 br-100" alt="Pylon"></svg>
-    </a>
+  <nav className="db dt-l w-100 border-box pa3 ph5-l sans-serif">
+    <div className="db v-mid fl">
+      <a className="db dtc-l v-mid mid-gray link dim w-10 w-10-l tc tl-l dib mb0-l" href="/" title="Home">
+        <img src={Logo} className="dib w2 h2" alt="Pylon"></img>
+      </a>
+      <a className="link v-mid dim dark-gray f5-l fw2 mr3 mr4-l">Pylon</a>
+    </div>
     <div className="db dtc-l v-mid w-100 w-75-l tl tr-l">
       <a className="link dim dark-gray f5-l fw2 dib mr3 mr4-l" href="/" title="Home">Home</a>
       <a className="link dim dark-gray f5-l fw2 dib mr3 mr4-l" href="/work" title="Work">Work</a>

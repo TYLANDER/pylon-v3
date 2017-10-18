@@ -8,7 +8,7 @@ import SpacerSmall from '../components/space-small'
 class WorkPage extends Component {
   render() {
     return (
-    <div className="mw9 center sans-serif debug-grid-16">
+    <div className="mw9 center sans-serif">
       <Nav />
         <header className="tl ph3 ph4-ns mv4 mv6-ns">
                   <div className="pa2 w-100"></div>
