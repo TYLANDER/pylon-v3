@@ -11,7 +11,7 @@ class WorkPage extends Component {
     <div className="mw9 center sans-serif">
       <Nav />
         <header className="tl ph3 ph4-ns mv4 mv6-ns">
-                  <div className="pa2 w-100"></div>
+          <div className="pa2 w-100"></div>
         <h1 className="f3-m f1-l black-90 mv3 near-black">
           Utility for End Users
         </h1>

@@ -2,9 +2,12 @@ import React from 'react'
 
 
 export default () => (
-    <section class="flex flex-column flex-row-ns mw9 center">
+    <section class="flex flex-column flex-row-ns mw9  pt4 pt0-ns center">
+        <p className="db pa3 ph4-ns pl6-ns mv3 mv4-ns f5 f4-ns lh-copy">
+          METHOD
+        </p>
       <ul class="list pl0 center">
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">
             Scoping.<br />
@@ -12,7 +15,7 @@ export default () => (
             Persona & User Journey Creation.<br />
           </span>
         </li>
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">
           Generate Ideas
           </b>
@@ -22,7 +25,7 @@ export default () => (
           Multiple directions explored.
           </span>
         </li>
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">
             Design Review
           </b>
@@ -30,7 +33,7 @@ export default () => (
           Decide on a single direction.
           </span>
         </li>
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">
             Rapid Prototyping
           </b>
@@ -42,7 +45,7 @@ export default () => (
             Interactive Prototype
           </span>
         </li>
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">
             Review, Refine, Reiterate
           </b>
@@ -52,7 +55,7 @@ export default () => (
             Reiterate if necessary.
           </span>
         </li>
-        <li class="pa3 pa4-ns bb b--black-10">
+        <li class="pa3 pa4-ns">
           <b class="db f3 mb1">
             Production
           </b>
