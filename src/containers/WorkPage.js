@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Nav from '../components/nav'
+import Nav2 from '../components/nav2'
 import BladeRight from '../components/blade-right'
 import BladeLeft from '../components/blade-left'
 import SpacerSmall from '../components/space-small'
@@ -9,7 +9,7 @@ class WorkPage extends Component {
   render() {
     return (
     <div className="mw9 center sans-serif">
-      <Nav />
+      <Nav2 />
         <header className="tl ph3 ph4-ns mv4 mv6-ns">
           <div className="pa2 w-100"></div>
         <h1 className="f3-m f1-l black-90 mv3 near-black">

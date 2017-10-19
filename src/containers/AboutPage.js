@@ -1,14 +1,14 @@
 import React from 'react';
-import Nav from '../components/nav'
+import Nav2 from '../components/nav2'
 import TitleText from '../components/title-text'
 import DisplayBox from '../components/displaybox2col'
 import Footer from '../components/footer'
 
 
 export default () => (
-  <div>  
+  <div>
     <div className="mw9 center sans-serif debug-grid-16">
-      <Nav />
+      <Nav2 />
         <header className="tl ph6-l mv6">
         <h1 className="f3-m f1-l black-90 mv3 near-black">
           Utility for End Users
