@@ -3,12 +3,13 @@ import Nav2 from '../components/nav2'
 import BladeRight from '../components/blade-right'
 import BladeLeft from '../components/blade-left'
 import SpacerSmall from '../components/space-small'
+import Footer from '../components/footer'
 
 
 class WorkPage extends Component {
   render() {
     return (
-    <div className="mw9 center sans-serif debug-grid-16">
+    <div className="mw9 center sans-serif">
       <Nav2 />
         <header className="tl ph ph6-ns mv4 mv6-ns">
         <h1 className="f3-m f1-l black-90 mv3 near-black">
@@ -21,7 +22,7 @@ class WorkPage extends Component {
       <BladeRight />
       <SpacerSmall />
       <BladeLeft />
-      <SpacerSmall />
+      <Footer />
     </div>
     );
   }

@@ -14,8 +14,8 @@ export default () => (
               Pylon created a new tech stack for InterSpan by integrating Google Cloud Engine for secure database management.
             </p>
           </div>
-          <div class="pr3-ns  w-100 w-50-ns ph3 pl5-ns fl">
-            <img src={require('../images/Musclebutter_macbook_07May17.png')} class="db" alt="Interspan"></img>
+          <div class="w-100 w-50-ns ph3 pl5-ns">
+            <img src={require('../images/Musclebutter_macbook_07May17.png')} class="" alt="Interspan"></img>
           </div>
         </div>
     </article>

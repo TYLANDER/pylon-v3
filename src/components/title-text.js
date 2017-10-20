@@ -3,10 +3,10 @@ import React from 'react'
 
 export default () => (
     <section class="flex flex-column flex-row-ns mw9  pt4 pt0-ns center">
-        <p className="db pa3 ph4-ns pl6-ns mv3 mv4-ns f5 f4-ns lh-copy">
+        <p className="db pa3 ph6-l mv3 mv4-ns f5 f4-ns lh-copy">
           METHOD
         </p>
-      <ul class="list pl0 center">
+      <ul class="list pl6-m pl7-l tl">
         <li class="pa3 pa4-ns">
           <b class="db f3 mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">

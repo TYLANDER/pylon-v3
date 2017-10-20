@@ -5,7 +5,7 @@ export default () => (
 <header class="headroom self-start w-100 accentcolorone z-max bg-white bb b--light-gray headroom--not-bottom headroom--pinned headroom--top sans-serif">
   <div class="mw7-m mw8-l center">
     <div class="cf pa2">
-      <div class="fl w-20">
+      <div class="fl w-100 w-20-ns content-center-ns">
         <a href="/">
           <div class="mt1">
             <img src={require('../images/purple_triangle@2x.png')}  class="w-15 h2 " alt="Pylon Logo"></img>
