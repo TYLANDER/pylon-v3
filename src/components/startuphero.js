@@ -12,13 +12,9 @@ export default () => (
 <header className='sans-serif'>
   <div className='cover bg-left bg-center-l' style={divStyle}>
     <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tl-l mt0-ns mt0-m mt0 mr1 ph4 ph5-m ph6-l">
-      </div>
+      <div className="tl-l mt0-ns mt0-m mt0 mr1 ph4 ph5-m ph6-l"></div>
     </div>
-      <div className='pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'>
-        <h2 class="f5 fw1 white-90">Bitcoin Address</h2>
-        <dd class="ml0 fw1 white-90">15a4QEayZm36CHdQVKx7f5vVWgnKTc3LCA</dd>
-      </div>
+      <div className='pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'></div>
   </div>
 </header>
 )
