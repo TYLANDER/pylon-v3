@@ -7,14 +7,6 @@ import PhilosophyText from '../components/philosophy-text'
 import TeamText from '../components/team-text'
 
 
-import Background from '../images/bots_raster.jpg'
-
-const divStyle = {
-  backgroundImage: `url(${Background})`,
-  WebkitTransition: 'all', // note the capital 'W' here
-  msTransition: 'all' // 'ms' is the only lowercase vendor prefix
-};
-
 
 export default () => (
   <div>

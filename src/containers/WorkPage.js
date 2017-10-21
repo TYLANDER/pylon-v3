@@ -5,8 +5,6 @@ import BladeLeft from '../components/blade-left'
 import SpacerSmall from '../components/space-small'
 import Footer from '../components/footer'
 import BladeCenter from '../components/blade-center'
-import Bots from '../images/bots_raster.jpg'
-import WorkHero from '../components/workhero'
 
 
 class WorkPage extends Component {
