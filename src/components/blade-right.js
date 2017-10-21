@@ -2,10 +2,10 @@ import React from 'react';
 
 
 export default () => (
-  <section class="mw9 center sans-serif ph4-ns">
+  <section class="mw9 center sans-serif ph4-ns pv4 near-black">
     <article class="">
         <div class="flex flex-column flex-row-ns">
-          <div class="pr3-ns mb4 mb0-ns w-100 w-50-ns">
+          <div class="pr3-ns mb4 mb0-ns w-100 w-50-ns bl1 ">
             <img src={require('../images/Hero.png')} class="db" alt="Interspan"></img>
           </div>
           <div class="w-100 w-50-ns ph3 pl5-ns">

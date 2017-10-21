@@ -1,20 +1,24 @@
 import React from 'react'
-import Background from '../images/portal_raster.jpg'
+import Bots from '../images/bots_raster.jpg'
 
-const divStyle = {
-  backgroundImage: `url(${Background})`,
+const botStyle = {
+  backgroundImage: `url(${Bots})`,
   WebkitTransition: 'all', // note the capital 'W' here
   msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 };
 
 
 export default () => (
-<header className='sans-serif'>
-  <div className='cover bg-center' style={divStyle}>
-    <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tl-l mt0-ns mt0-m mt0 mr1 ph4 ph5-m ph6-l"></div>
-    </div>
-      <div className='pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'></div>
+<header class="vh-100 bg-light-blue dt w-100">
+  <div
+    style={botStyle} className="no-repeat center right;background-size: cover;"
+    class="dtc v-mid cover ph3 ph4-m ph5-l background-size:cover no-repeat center right">
+    <h1 className="f3-m f1-l black-90 mv3 near-black">
+      Making Order from Chaos
+    </h1>
+    <h4 className="f4 lh-copy fw4 measure-wide mt0 mv3 near-black">
+      Pylon is dedicated to crafting the best possible experience for end users.<br /> We identify and solve impactful problems with Human Centered Design methodologies. We apply solutions through a globally distributed team of smart creatives.
+    </h4>
   </div>
 </header>
 )

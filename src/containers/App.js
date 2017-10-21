@@ -4,11 +4,6 @@ import { BrowserRouter } from 'react-router-dom'
 import Routes from './routes'
 
 
-
-
-
-
-
 // src/containers/App.js
 // Entry point to my main container and routes.
 const App = () => (

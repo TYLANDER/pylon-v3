@@ -2,7 +2,7 @@ import React from 'react';
 
 
 export default () => (
-  <section class="mw9 center sans-serif ph4-ns">
+  <section class="mw9 center sans-serif ph3-ns pv4">
     <article class="">
         <div class="flex flex-column flex-row-ns">
           <div class="w-100 mb4 mb0-ns w-50-ns ph3 pr3-ns">
