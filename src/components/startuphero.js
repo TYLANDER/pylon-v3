@@ -3,22 +3,23 @@ import Background from '../images/portal_raster.jpg'
 
 const divStyle = {
   backgroundImage: `url(${Background})`,
+  opacity: '0.85',
   WebkitTransition: 'all', // note the capital 'W' here
   msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 };
 
+const opacityStyle = {
+  backgroundColor: 'rgba(255,255,255,0.65)'
+};
 
 export default () => (
 <header className='sans-serif'>
-  <div className='w-100 contain bg-top' style={divStyle}>
+  <div className='cover bg-center bg-top vh-75 vh-90-l' style={divStyle}>
     <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tc mt5 ph4 ph5-m ph6-l content-center">
-        <h1 className="flex self-center justify-center mw5 bg-white">Enter The Void</h1>
+      <div className="tc mt0 mt4-ns ph4 ph5-m ph6-l content-center">
+        <h1 style={opacityStyle} className="mr2 mr4-l f1 bg-white"></h1>
       </div>
     </div>
-      <div className='flex items-center pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'>
-        <h1>Enter The Void</h1>
-      </div>
   </div>
 </header>
 )

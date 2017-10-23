@@ -11,7 +11,7 @@ import WorkHero from '../components/workhero'
 class WorkPage extends Component {
   render() {
     return (
-    <div className="mw-100 mw9-ns center sans-serif near bg-near-white">
+    <div className="mw-100 mw9-ns center sans-serif bg-near-white">
       <Nav2 />
       <WorkHero />
       <BladeRight />
