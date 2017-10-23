@@ -10,7 +10,7 @@ import TeamText from '../components/team-text'
 
 export default () => (
   <div>
-    <div className="mw9 center sans-serif">
+    <div className="mw9 center sans-serif debug-grid-16">
       <Nav2 />
 
         <header className="tl ph6-l mv6 cf">

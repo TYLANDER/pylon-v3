@@ -6,7 +6,7 @@ import React from 'react';
 export default () => (
 <div class="center measure-wide  pv5 lh-copy ph2 sans-serif">
     <h1 class="f3 f1-l fw6 lh-title">Enter The Void</h1>
-    <p class="b">
+    <p class="b f4 fw6">
       Pylon is a globally distributed design studio.
     </p>
     <p>

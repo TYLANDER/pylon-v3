@@ -6,7 +6,7 @@ export default () => (
     <article class="">
         <div class="flex flex-column flex-row-ns">
           <div class="pr3-ns mb4 mb0-ns w-100 w-50-ns">
-            <img src={require('../images/Hero.png')} class="db" alt="Interspan"></img>
+            <img src={require('../images/Hero.png')} class="db shadow-4" alt="Interspan"></img>
           </div>
           <div class="w-100 w-50-ns ph3 pl5-ns">
             <h1 class="f1 mt0 lh-title">Interspan Right</h1>

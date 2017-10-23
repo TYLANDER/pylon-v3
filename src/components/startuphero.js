@@ -10,11 +10,15 @@ const divStyle = {
 
 export default () => (
 <header className='sans-serif'>
-  <div className='cover bg-center' style={divStyle}>
+  <div className='w-100 contain bg-top' style={divStyle}>
     <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tl-l mt0-ns mt0-m mt0 mr1 ph4 ph5-m ph6-l"></div>
+      <div className="tc mt5 ph4 ph5-m ph6-l content-center">
+        <h1 className="flex self-center justify-center mw5 bg-white">Enter The Void</h1>
+      </div>
     </div>
-      <div className='pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'></div>
+      <div className='flex items-center pb5 pb6-m pb7-l pt5 ph4 ph5-m ph6-l'>
+        <h1>Enter The Void</h1>
+      </div>
   </div>
 </header>
 )

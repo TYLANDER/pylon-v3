@@ -15,7 +15,7 @@ export default () => (
             </p>
           </div>
           <div class="w-100 w-50-ns ph3 pl5-ns">
-            <img src={require('../images/Musclebutter_macbook_07May17.png')} class="" alt="Interspan"></img>
+            <img src={require('../images/Musclebutter_macbook_07May17.png')} class="shadow-4" alt="Interspan"></img>
           </div>
         </div>
     </article>

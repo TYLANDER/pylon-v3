@@ -9,14 +9,12 @@ const botStyle = {
 
 
 export default () => (
-<header class="vh-100 bg-light-blue dt w-100">
-  <div
-    style={botStyle} className="no-repeat center right;background-size: cover;"
-    class="dtc v-mid cover ph3 ph4-m ph5-l background-size:cover no-repeat center right">
-    <h1 className="f3-m f1-l black-90 mv3 near-black">
+<header class="vh-100 dt w-100">
+  <div style={botStyle} className="w-100 contain bg-top dtc center">
+    <h1 className="f3-m f1-l black-90 mv3 near-black bg-white">
       Making Order from Chaos
     </h1>
-    <h4 className="f4 lh-copy fw4 measure-wide mt0 mv3 near-black">
+    <h4 className="f4 lh-copy fw4 measure-wide mt0 mv3 near-black bg-white">
       Pylon is dedicated to crafting the best possible experience for end users.<br /> We identify and solve impactful problems with Human Centered Design methodologies. We apply solutions through a globally distributed team of smart creatives.
     </h4>
   </div>

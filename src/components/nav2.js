@@ -13,7 +13,7 @@ export default () => (
         </a>
       </div>
       <div class="fl w-100 w-80-ns pl2-m pt3 pt0-ns tr-ns">
-        <ul class="list w-100 pa0 ma0">
+        <ul class="list w-100 pa0 ma0 mt1">
 
             <li class="dib mb1 mr2 mr4-l f5 f5-ns"><a class="ttc underline-hover link near-black no-underline" href="/about/">about</a></li>
 
