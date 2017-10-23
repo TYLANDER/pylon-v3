@@ -1,5 +1,4 @@
 import React from 'react'
-import Team from '../images/astronauts_raster.jpg'
 
 
 export default () => (

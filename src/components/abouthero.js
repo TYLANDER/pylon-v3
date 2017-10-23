@@ -8,9 +8,6 @@ const aboutStyle = {
   msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 };
 
-const opacityStyle = {
-  backgroundColor: 'rgba(255,255,255,0.65)'
-};
 
 export default () => (
 <header className='vh-100 dt w-100 sans-serif'>

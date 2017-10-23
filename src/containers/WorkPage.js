@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import Nav2 from '../components/nav2'
 import BladeRight from '../components/blade-right'
 import BladeLeft from '../components/blade-left'
-import SpacerSmall from '../components/space-small'
 import Footer from '../components/footer'
 import BladeCenter from '../components/blade-center'
 import WorkHero from '../components/workhero'
@@ -11,7 +10,7 @@ import WorkHero from '../components/workhero'
 class WorkPage extends Component {
   render() {
     return (
-    <div className="mw-100 sans-serif bg-near-white">
+    <div className="mw-100 sans-serif">
       <Nav2 />
       <WorkHero />
       <BladeRight />
