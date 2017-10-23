@@ -3,7 +3,7 @@ import Background from '../images/portal_raster.jpg'
 
 const divStyle = {
   backgroundImage: `url(${Background})`,
-  opacity: '0.85',
+  opacity: '0.87',
   WebkitTransition: 'all', // note the capital 'W' here
   msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 };

@@ -1,23 +1,29 @@
 import React from 'react'
-import Bots from '../images/bots_raster.jpg'
+import Monoliths from '../images/monoliths_raster.jpg'
 
-const botStyle = {
-  backgroundImage: `url(${Bots})`,
-  opacity: '0.85',
+const aboutStyle = {
+  backgroundImage: `url(${Monoliths})`,
+  opacity: '0.87',
   WebkitTransition: 'all', // note the capital 'W' here
   msTransition: 'all' // 'ms' is the only lowercase vendor prefix
 };
 
 const opacityStyle = {
-  backgroundColor: 'rgba(0,0,0,0.65)'
+  backgroundColor: 'rgba(255,255,255,0.65)'
 };
 
 export default () => (
-<header class="vh-100 dt w-100 mb5">
-  <div style={botStyle} className="dtc tc v-mid contain bg-top bg-center white ph3 ph4-m ph5-l">
-    <h1 style={opacityStyle} className="f3 f-subheadline-l measure center lh-title fw7">
-      Making Order from Chaos
-    </h1>
+<header className='vh-100 dt w-100 sans-serif'>
+  <div className='dtc v-mid contain bg-right bg-top vh-75 vh-90-l' style={aboutStyle}>
+    <div className='pb5 pb6-m pb7-l pt2 ph2' >
+      <div className="tl v-mid mt0 mt4-ns ph4 ph5-m ph6-l">
+        <h1 className="mr2 mr4-l f1">Utility for End Users</h1>
+          <h4 className="f4 lh-copy fw4 black-50 mt0 mv3 near-black">
+            Pylon designs products with intrinsic value.
+          </h4>
+          <h4 className="f4 lh-copy fw4 black-50 mt0 mv3 near-black">We solve problems with teams of smart creatives.</h4>
+      </div>
+    </div>
   </div>
 </header>
 )

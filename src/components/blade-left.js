@@ -2,10 +2,10 @@ import React from 'react';
 
 
 export default () => (
-  <section class="mw9 center sans-serif ph3-ns pv4">
+  <section class="mw9 center sans-serif ph3-ns pv4 mb6">
     <article class="">
         <div class="flex flex-column flex-row-ns">
-          <div class="w-100 mb4 mb0-ns w-50-ns ph3 pr3-ns">
+          <div class="w-100 mb4 mb0-ns w-50-ns ph3 pl5-ns">
             <h1 class="f1 mt0 lh-title">MuscleButter Left</h1>
             <p class="f4 f6-ns lh-copy mv0">Web Design & Development</p>
             <p class="f4 f5-l lh-copy measure">

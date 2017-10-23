@@ -7,7 +7,7 @@ export default () => (
 <div class="w-90 center measure pv2 pv5-l lh-copy  mb4 sans-serif">
     <h1 class="f3 f1-l fw6 lh-title">Enter The Void</h1>
     <p class="f4 fw6">
-      Pylon is a globally distributed design studio.
+      Pylon – a distributed design studio.
     </p>
     <p>
       A progressive digital design and development studio. Pylon is the first studio to accecpt cryptocurrency for client work.
