@@ -13,8 +13,8 @@ const opacityStyle = {
 };
 
 export default () => (
-<header class="dt w-100 mb5">
-  <div style={botStyle} className="dtc v-mid tc bg-top cover bg-center ph3 ph4-m ph5-l">
+<header class=" dt w-100 mb5">
+  <div style={botStyle} className="h5 dtc v-mid tc bg-top cover bg-center ph3 ph4-m ph5-l">
     <h1 style={opacityStyle} className="f3 f-subheadline-l measure lh-title white fw7">
       Making Order from Chaos
     </h1>

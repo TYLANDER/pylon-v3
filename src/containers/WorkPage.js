@@ -10,7 +10,7 @@ import WorkHero from '../components/workhero'
 class WorkPage extends Component {
   render() {
     return (
-    <div className="mw-100 sans-serif">
+    <div className="mw-100 sans-serif debug-grid-16">
       <Nav2 />
       <WorkHero />
       <BladeRight />

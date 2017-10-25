@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import StartupHero from '../components/startuphero'
 import Nav2 from '../components/nav2'
 import HomeArticle from '../components/article-center-wide'
-import Footer from '../components/footer'
+import Footer2 from '../components/footerv2'
 
 
 class HomePage extends Component {
@@ -12,7 +12,7 @@ class HomePage extends Component {
       <Nav2 />
       <StartupHero />
       <HomeArticle />
-      <Footer />
+      <Footer2 />
     </div>
     );
   }

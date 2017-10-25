@@ -1,37 +1,20 @@
 import React from 'react'
-import Monoliths from '../images/monoliths_raster.jpg'
 
-const aboutStyle = {
-  backgroundImage: `url(${Monoliths})`,
-  opacity: '0.87',
-  WebkitTransition: 'all', // note the capital 'W' here
-  msTransition: 'all' // 'ms' is the only lowercase vendor prefix
-};
 
 
 export default () => (
-<header className='vh-100 dt w-100 sans-serif'>
-  <div className='dtc v-mid contain bg-right bg-top vh-75 vh-90-l' style={aboutStyle}>
-    <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tl v-mid mt0 mt4-ns ph4 ph5-m ph6-l">
-        <h1 className="mr2 mr4-l f1">Utility for End Users</h1>
-          <h4 className="f4 lh-copy fw4 black-50 mt0 mv3 near-black">
-            Pylon designs products with intrinsic value.
+<header className='mw7-m mw9-l center pt6 ph3 ph6-l '>
+    <div className='cf' >
+      <div className="fl w-50-l  mt0 mv5-ns mb5 fw4 f4 f3-ns v-mid-ns">
+        <h1 className="f2 f1-ns">Utility for End Users</h1>
+          <h4 className="f4 f4-ns lh-copy fw4 black-50 mt0 mv3 near-black measure-narrow">
+            Pylon is a global design and innovation consultancy based in San Francisco. Design is the way we add value to the world.
           </h4>
           <h4 className="f4 lh-copy fw4 black-50 mt0 mv3 near-black">We solve problems with teams of smart creatives.</h4>
       </div>
+    <div class="fl w-50-l mt0 mb4 mb5-l v-mid-ns">
+        <img src={require('../images/about_hero@2x.png')} class="w-100 mw7 w7-ns o-85" alt="smileyface"/>
     </div>
   </div>
 </header>
 )
-
-
-/* Headline text removed for testing hero images
-
-  <h1 className="f2 f1-l fw2 black-90 mb0 pt6 lh-title">Product Design and Development</h1>
-  <h2 class="fw1 f3 black-80 mt3 mb4">This site could be fancy, but really its just a sign. Email me bruh.</h2>
-  <a className="f6 no-underline grow dib v-mid bg-blue white ba b--blue ph3 pv2 mb3" href="/">Email Pylon</a>
-  <span className="dib v-mid ph3 white-70 mb3">or</span>
-  <a className="f6 no-underline grow dib v-mid white ba b--white ph3 pv2 mb3" href="http://thecatapi.com/api/images/get?format=src&type=gif">Look at a Cat</a>
-
- */

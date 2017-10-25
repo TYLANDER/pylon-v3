@@ -16,7 +16,7 @@ export default () => (
             Intrinsic value comes from the immaterial void.
           </span>
         </li>
-        <li className="pa3 pa40ns"></li>
+        <li className="pa3 pa4-ns"></li>
       </ul>
       </section>
 )
