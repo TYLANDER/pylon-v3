@@ -10,7 +10,7 @@ import AboutHero from '../components/abouthero'
 
 
 export default () => (
-  <div className='sans-serif debug-grid-16'>
+  <div className='sans-serif'>
     <Nav2 />
     <AboutHero />
     <DisplayBox />
