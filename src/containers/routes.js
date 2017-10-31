@@ -6,7 +6,7 @@ import {
 import AboutPage from './AboutPage'
 import HomePage from './HomePage'
 import WorkPage from './WorkPage'
-import SwissHomePage from './SwissHomePage'
+import ProjectPage from './ProjectPage'
 
 //currently the "/" path loads Homepage first and then loads the other components from Main.js.
 const Routes = () => (
@@ -15,7 +15,7 @@ const Routes = () => (
       <Route exact path="/" component={HomePage}/>
       <Route path="/about" component={AboutPage}/>
       <Route path="/work" component={WorkPage}/>
-      <Route path="/swiss" component={SwissHomePage}/>
+      <Route path="/interspan" component={ProjectPage}/>
     </div>
   </Router>
 )
