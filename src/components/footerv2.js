@@ -4,7 +4,7 @@ import React from 'react'
 //the footerv2 component.
 export default () => (
   <footer className="pt5 pb5 bg-dark-gray white sans-serif lh-copy">
-    <div class="mw7-m mw8-l center ph3">
+    <div class="mw8-m mw9-l center ph3">
       <div className="cf mh-2 mh-3-l mb5">
         <div class="fl w-100 w-third-l ph2 ph3-l">
           <p class="mt0 mb4 ttu tracked f6">Contact</p>
@@ -52,7 +52,7 @@ export default () => (
                   <a class="link white underline underline-hover" href="https://www.facebook.com/tylerschmidt">Linkedin</a>
                 </p>
                 <p class="mv0">
-                  <a class="link white underline underline-hover" href="https://twitter.com/tylerschmdit">Twitter</a>
+                  <a class="link white underline underline-hover" href="https://twitter.com/tylerschmidt">Twitter</a>
                 </p>
                 <p class="mv0">
                   <a class="link white underline underline-hover" href="https://medium.com/tylerschmidt">Medium</a>

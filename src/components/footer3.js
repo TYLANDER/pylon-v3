@@ -4,7 +4,7 @@ import React from 'react'
 //the footer component. Unstyled.
 export default () => (
 <footer className="pv5 w-100 center bg-dark-gray sans-serif lh-copy">
-  <div className="mw8-m mw9-l center ph5-l">
+  <div className="mw8-m mw9-l ph5-l center">
     <div className="cf pa3">
 
     <section className="fl w-100 w-40-ns mb4 mb0-ns">
@@ -21,7 +21,7 @@ export default () => (
   <section className="mw8-m mw9-l center" >
     <div className="pa3">
       <p className="f7 near-white">
-        Copyright © 2049 Pylon all rights reserved. <br />Constructing additional Pylons since 2015.
+        Copyright © 2049 Pylon all rights reserved. <br />Constructing additional Pylons since 2015.<br />Pylon is an international soverign, and does not recognize national regulatory bodies.
       </p>
     </div>
 </section>
