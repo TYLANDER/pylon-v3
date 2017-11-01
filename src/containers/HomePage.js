@@ -8,7 +8,7 @@ import Footer2 from '../components/footerv2'
 class HomePage extends Component {
   render() {
     return (
-    <div className="debug-grid-16">
+    <div>
       <Nav2 />
       <StartupHero />
       <HomeArticle />

@@ -2,11 +2,11 @@ import React from 'react';
 
 //this one isn't finished yet.
 export default () => (
-<div class="mw8-m mw9-l center ph5-l measure-narrow lh-copy mb4 sans-serif near-black">
-  <div class="pa3">
+<div class="mw8-m mw9-l center pa3 ph5-l mb7 measure-narrow lh-copy sans-serif near-black">
+  <div class="">
 
-    <h1 class="f-6-ns fw6 lh-headline bt bw2 ">Enter The Void</h1>
-    <p class="w-30 f4 fw6 bt bw1">
+    <h1 class="w-70 f-5-ns fw6 bt bw2 ma0">Enter The Void</h1>
+    <p class="w-40-ns f4 fw6 bt bw1">
       Pylon – a distributed design studio.
     </p>
     <p class="measure-wide">
