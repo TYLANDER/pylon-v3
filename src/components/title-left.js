@@ -1,13 +1,15 @@
 import React from 'react';
 
-
+//this one isn't finished yet.
 export default () => (
-<div class="w-90 center measure pv2 pv5-l lh-copy  mb4 sans-serif near-black">
-    <h1 class="f3 f1-l fw6 lh-title">Enter The Void</h1>
-    <p class="f4 fw6">
+<div class="mw8-m mw9-l center ph5-l measure-narrow lh-copy mb4 sans-serif near-black">
+  <div class="pa3">
+
+    <h1 class="f-6-ns fw6 lh-headline bt bw2 ">Enter The Void</h1>
+    <p class="w-30 f4 fw6 bt bw1">
       Pylon – a distributed design studio.
     </p>
-    <p>
+    <p class="measure-wide">
       A progressive digital design and development studio. Pylon is the first studio to accecpt cryptocurrency for client work.
       It is adopted by many countries around the world
       and is based on the German DIN metric Standards. The United States uses
@@ -16,11 +18,6 @@ export default () => (
       by-product of the culture of free enterprise, competition and waste.
       Just another example of the misinterpretations of freedom.
     </p>
-    <p>
-      The A4 is the basic size for stationary. Two thirds of it is a square,
-      a nice economical happenstance resulting from the golden rectangle.
-      It is one of the reasons we tend to use as much
-      as possible the DIN sizes: proportions are always leading to other nice proportions.
-    </p>
   </div>
+</div>
 )
