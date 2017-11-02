@@ -1,10 +1,15 @@
 import React from 'react'
+import Background from '../images/bots_raster.jpg'
 
+const divStyle = {
+  backgroundImage: `url(${Background})`,
+  WebkitTransition: 'all', // note the capital 'W' here
+  msTransition: 'all' // 'ms' is the only lowercase vendor prefix
+};
 
 export default () => (
-  <section class="mw8 mw9-ns center pt6 pa3-m pa5-ns mb0">
-    <div class="aspect-ratio aspect-ratio--16x9 mb2 mt0-ns o-90">
-      <img class="aspect-ratio--object cover center ph3" src={require('../images/bots_raster.jpg')} alt="pylon_battle"></img>
-    </div>
-  </section>
+<header className='sans-serif'>
+  <div className='cover bg-center bg-top vh-75 mt2 mt0-ns' style={divStyle}>
+  </div>
+</header>
 )

@@ -9,7 +9,8 @@ export default () => (
     </p>
     <p class="measure-wide lh-copy">
       Pylon is a soverign corporation.
-      We are a progressive digital design and innovation studio. We are a cryptographic asset management fund.
+      We are a progressive digital design and innovation studio.
+      We are a cryptographic asset management fund.
       We build secure local networks for soverign individuals.
       We accecpt payment only in cryptocurrency.
     </p>

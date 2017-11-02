@@ -20,7 +20,7 @@ export default () => (
   </div>
   <section className="mw8-m mw9-l center" >
     <div className="pa3">
-      <p className="f7 near-white">
+      <p className="f7 near-white lh-copy">
         Copyright © 2049 Pylon all rights reserved. <br />Constructing additional Pylons since 2015.<br />Pylon is an international soverign, and does not recognize national regulatory bodies.
       </p>
     </div>

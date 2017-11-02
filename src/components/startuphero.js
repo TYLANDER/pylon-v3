@@ -9,11 +9,7 @@ const divStyle = {
 
 export default () => (
 <header className='sans-serif'>
-  <div className='cover bg-center bg-top vh-75 mt0 mt0-ns' style={divStyle}>
-    <div className='pb5 pb6-m pb7-l pt2 ph2' >
-      <div className="tc mt0 mt4-ns ph4 ph5-m ph6-l content-center">
-      </div>
-    </div>
+  <div className='cover bg-center bg-top vh-75 mt2 mt0-ns' style={divStyle}>
   </div>
 </header>
 )
