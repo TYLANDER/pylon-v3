@@ -3,16 +3,16 @@ import Nav2 from '../components/nav2'
 import MethodText from '../components/method-text'
 import DisplayBox from '../components/displaybox2col'
 import Footer3 from '../components/footer3'
-import AboutHero from '../components/abouthero'
+import MethodHero from '../components/methodhero'
 
 
 
 export default () => (
   <div className='sans-serif'>
     <Nav2 />
-    <AboutHero />
-    <DisplayBox />
+    <MethodHero />
     <MethodText />
+    <DisplayBox />
     <Footer3 />
   </div>
 )

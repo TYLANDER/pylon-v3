@@ -2,7 +2,7 @@ import React from 'react'
 
 
 export default () => (
-<header className="headroom self-start w-100 accentcolorone z-max bg-white bb b--light-gray headroom--top headroom--not-bottom sans-serif">
+<header className="headroom self-start w-100 z-max bg-white bb b--light-gray headroom--top headroom--not-bottom sans-serif">
   <div className="mw8-m mw9-l center pa3 ph5-l">
     <div className="cf">
       <div className="fl w-100 w-20-ns pa0 ma0">

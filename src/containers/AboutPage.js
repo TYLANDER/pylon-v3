@@ -1,18 +1,19 @@
 import React from 'react';
 import Nav2 from '../components/nav2'
-import Footer3 from '../components/footer3'
+import AboutHero from '../components/abouthero'
 import PhilosophyText from '../components/philosophy-text'
 import TeamText from '../components/team-text'
-import AboutHero from '../components/abouthero'
-
+import AboutTyler from '../components/about-tyler'
+import Footer3 from '../components/footer3'
 
 
 export default () => (
   <div className='sans-serif'>
     <Nav2 />
-    <AboutHero />
+    <AboutHero/>
     <PhilosophyText />
     <TeamText />
+    <AboutTyler />
     <Footer3 />
   </div>
 )
