@@ -1,12 +1,12 @@
 import React from 'react'
 
-
+//I should add in reference links here to relevant books or concepts that I use in design. Maybe Image assets on Desktop but that's beyond the scope of an MVP.
 export default () => (
-    <section class="flex flex-column flex-row-ns mw9  pt4 pt0-ns center">
-        <p className="db pa3 ph6-l mv3 mv4-ns f5 f4-ns lh-copy w-25">
+    <section class="flex flex-column flex-row-ns mw9 center">
+        <p className="db pa3 ph6-l mv2 mv4-ns f5 f4-ns lh-copy w-25">
           METHOD
         </p>
-      <ul class="list pl6-m pl7-l tl">
+      <ul class="list pl0 pl6-m pl7-l tl">
         <li class="pa3 pa4-ns">
           <b class="db f3 mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">

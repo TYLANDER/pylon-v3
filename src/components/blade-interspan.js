@@ -9,7 +9,7 @@ export default () => (
             <img src={require('../images/Hero.png')} class="db shadow-4" alt="Interspan"></img>
           </div>
           <div class="w-100 w-50-ns ph3 pl5-ns">
-            <h1 class="f1 mt0 lh-title">Interspan Right</h1>
+            <h1 class="f2 f1-ns mt0 lh-title">Interspan Right</h1>
             <p class="f4 f6-ns lh-copy mv0">Web Design & Development</p>
             <p class="f4 f5-l lh-copy measure">
               InterSpan is a workforce staffing company dedicated to providing good jobs to light industrial workers.

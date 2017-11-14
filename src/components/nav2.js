@@ -2,22 +2,29 @@ import React from 'react'
 
 
 export default () => (
-<header className="headroom self-start w-100 accentcolorone z-max bg-white bb b--light-gray headroom--top headroom--not-bottom code">
-  <div className="mw7-m mw8-l center">
-    <div className="cf pa3">
+<header className="headroom self-start w-100 z-max bg-white bb b--light-gray headroom--top headroom--not-bottom sans-serif">
+  <div className="mw8-m mw9-l center pa3 ph5-l">
+    <div className="cf">
       <div className="fl w-100 w-20-ns pa0 ma0">
         <a href="/">
           <ul className="list w-100 pa0 ma0">
+<<<<<<< HEAD
             <li className="dib mb0 mr2 mr4-l f4 f5-ns bg-dark-blue near-white pa1">//Pylon</li>
+=======
+
+            <li className="dib mb0 mr2 mr4-l f4 f4-ns near-white pa1 code" style={{background: 'linear-gradient(135deg, #3200ff, #8c70ff)'}}>Pylon</li>
+>>>>>>> 6fb54cc2c1a60ee690022543a4575096968af8ac
           </ul>
         </a>
       </div>
       <div className="fl w-100 w-80-ns pl2-ns pt3 pt0-ns tr-ns">
         <ul className="list w-100 pa0 ma0 mt1">
 
-            <li className="dib mb1 mr3 mr4-l f6 f5-ns"><a className="ttc underline-hover link near-black no-underline" href="/about/">about</a></li>
+            <li className="dib mb1 mr3 mr4-ns f6 f4-ns fw3"><a className="ttc underline-hover link near-black no-underline" href="/about/">about</a></li>
 
-            <li className="dib mb1 mr3 mr4-l f6 f5-ns"><a className="ttc underline-hover link near-black no-underline" href="/work/">work</a></li>
+            <li className="dib mb1 mr3 mr4-ns f6 f4-ns fw3"><a className="ttc underline-hover link near-black no-underline" href="/method/">method</a></li>
+
+            <li className="dib mb1 mr3 mr4-ns f6 f4-ns fw3"><a className="ttc underline-hover link near-black no-underline" href="/work/">work</a></li>
 
         </ul>
       </div>
