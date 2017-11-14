@@ -2,7 +2,11 @@ import React from 'react';
 
 
 export default () => (
+<<<<<<< HEAD
+<div class="w-90 center measure pv2 pv5-l lh-copy  mb4 code">
+=======
 <div class="w-90 center measure pv2 pv5-l lh-copy  mb4 sans-serif near-black">
+>>>>>>> 6fb54cc2c1a60ee690022543a4575096968af8ac
     <h1 class="f3 f1-l fw6 lh-title">Enter The Void</h1>
     <p class="f4 fw6">
       Pylon – a distributed design studio.
