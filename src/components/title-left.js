@@ -8,12 +8,7 @@ export default () => (
       Pylon – a cell of intrinsic value.
     </p>
     <p class="measure-wide lh-copy">
-      Pylon is a soverign corporation.
-      A Pylon is a single unit of intrinsic value.
-      We are a progressive digital design and innovation studio.
-      We are a cryptographic asset management fund.
-      We build secure local networks for soverign individuals.
-      We accecpt payment only in cryptocurrency.
+
     </p>
 </div>
 )
