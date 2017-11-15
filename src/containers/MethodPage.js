@@ -8,7 +8,7 @@ import MethodHero from '../components/methodhero'
 
 
 export default () => (
-  <div className='sans-serif'>
+  <div className='sans-serif bg-black off-white'>
     <Nav2 />
     <MethodHero />
     <MethodText />

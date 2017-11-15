@@ -8,7 +8,7 @@ import Footer3 from '../components/footer3'
 
 
 export default () => (
-  <div className='sans-serif'>
+  <div className='off-white sans-serif bg-black'>
     <Nav2 />
     <AboutHero/>
     <PhilosophyText />

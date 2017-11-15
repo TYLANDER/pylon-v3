@@ -8,7 +8,7 @@ import Footer3 from '../components/footer3'
 class HomePage extends Component {
   render() {
     return (
-    <div>
+    <div className="bg-black">
       <Nav2 />
       <StartupHero />
       <HomeArticle />

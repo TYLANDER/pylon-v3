@@ -11,7 +11,7 @@ import WorkTitle from '../components/title-work'
 class WorkPage extends Component {
   render() {
     return (
-    <div className="sans-serif">
+    <div className="sans-serif bg-black off-white">
       <Nav2 />
       <WorkHero />
       <WorkTitle />

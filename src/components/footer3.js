@@ -4,7 +4,7 @@ import React from 'react'
 //the footer component. Unstyled.
 export default () => (
 
-<footer className="pv5 w-100 center bg-dark-gray sans-serif lh-copy">
+<footer className="pv5 w-100 center bg-black sans-serif off-white lh-copy">
   <div className="mw8-m mw9-l ph5-l center">
     <div className="cf pa3">
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 
 export default () => (
-  <section className="center mw9">
+  <section className="center mw9 bg-dark-gray near-white">
     <div className="cf">
       <p className="fl f4 lh-copy pa3 ph4-ns ph6-l w-50">
       WHAT WE DO
