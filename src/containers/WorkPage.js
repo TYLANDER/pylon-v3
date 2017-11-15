@@ -17,7 +17,6 @@ class WorkPage extends Component {
       <WorkTitle />
       <BladeRight />
       <BladeLeft />
-      <BladeCenter />
       <Footer3 />
     </div>
     );
