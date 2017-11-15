@@ -8,12 +8,7 @@ export default () => (
       <div className="fl w-100 w-20-ns pa0 ma0">
         <a href="/">
           <ul className="list w-100 pa0 ma0">
-<<<<<<< HEAD
-            <li className="dib mb0 mr2 mr4-l f4 f5-ns bg-dark-blue near-white pa1">//Pylon</li>
-=======
-
             <li className="dib mb0 mr2 mr4-l f4 f4-ns near-white pa1 code" style={{background: 'linear-gradient(135deg, #3200ff, #8c70ff)'}}>Pylon</li>
->>>>>>> 6fb54cc2c1a60ee690022543a4575096968af8ac
           </ul>
         </a>
       </div>
