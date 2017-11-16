@@ -16,8 +16,8 @@ export default () => (
             Tyler Schmidt has been a UX Design practicioner for the past 8 years. Now managing Pylon, Tyler manages a distributed team of best in class creatives to provide impactful solutions for modern brands. Tyler believes design is a way to add value in this world.
           </span>
         </li>
-        <Button />
       </ul>
     </section>
+    <Button />
   </article>
 )

@@ -16,7 +16,7 @@ export default () => (
               InterSpan needed a full brand overhaul, and a new system for handling inbound job applications.
               Pylon created a new tech stack for InterSpan by integrating Google Cloud Engine for secure database management.
             </p>
-            <p className="f4 f6-ns lh-copy purple link hover-light-purple" href="#0">View Project ></p>
+            <a className="f4 f6-ns lh-copy purple link hover-light-purple" href="/interspan">View Project ></a>
           </div>
         </div>
     </article>
