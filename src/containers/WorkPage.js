@@ -3,7 +3,6 @@ import Nav2 from '../components/nav2'
 import BladeRight from '../components/blade-interspan'
 import BladeLeft from '../components/blade-left'
 import Footer3 from '../components/footer3'
-import BladeCenter from '../components/blade-center'
 import WorkHero from '../components/workhero'
 import WorkTitle from '../components/title-work'
 

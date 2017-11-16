@@ -2,13 +2,13 @@ import React from 'react'
 
 
 export default () => (
-    <section class="flex flex-column flex-row-ns mw9 center">
-        <p className="db pa3 ph6-l mv2 mv4-ns f5 f4-ns lh-copy w-100 w-25-ns">
-          OUR PHILOSOPHY
+    <section class="cf">
+        <p className="fl pa3 ph6-l f5 lh-copy w-100 w-25-ns">
+        PHILOSOPHY
         </p>
-      <ul class="list pl0 pl6-m pl7-l tl">
+      <ul class="list fl tl w-100 w-75-ns">
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">Reduce cognitive load for end users.</b>
+          <b class="fl db f3 w-100">Reduce cognitive load for end users.</b>
           <span class="f5 db lh-copy measure">
             Pylon's mission is constructing additional pylons.<br />
             Pylon: n. one abstract unit of intrinsic value.<br />

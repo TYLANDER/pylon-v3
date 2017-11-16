@@ -8,7 +8,7 @@ export default () => (
   <header className='mw8-m mw9-l center ph3 ph5-l pt6'>
     <div className='cf' >
       <div className="fl dib w-100 w-40-l mt0-m mv5-ns mb5 fw4 f4 f3-ns v-mid-ns pr0 pr4-m">
-        <h1 className="dib f-5 fw6 bt bb bw2 mv0 mv3-m lh-title">Utility to End Users</h1>
+        <h1 className="dib f-5 fw5 bt bb bw2 mv0 mv3-m lh-title">Utility to End Users</h1>
           <p className="f4 fw4 measure-wide lh-copy mt0 mv3">
             We identify and solve the right problem through a focus on human-centered design methodologies.
           </p>

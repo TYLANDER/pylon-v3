@@ -10,9 +10,9 @@ export default () => (
         <li class="pa3 pa4-ns">
           <b class="db f3 mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">
-            Scoping.<br />
+            Scoping<br />
             Human Centered Research<br />
-            Persona & User Journey Creation.<br />
+            Persona & User Journey Creation<br />
           </span>
         </li>
         <li class="pa3 pa4-ns">
@@ -20,9 +20,9 @@ export default () => (
           Generate Ideas
           </b>
           <span class="f5 db lh-copy measure">
-          Strategic insights inform direction.<br />
-          The Void provides ideas.<br />
-          Multiple directions explored.
+          Strategic insights inform direction<br />
+          The Void provides ideas<br />
+          Multiple directions explored
           </span>
         </li>
         <li class="pa3 pa4-ns">
@@ -30,7 +30,7 @@ export default () => (
             Design Review
           </b>
           <span class="f5 db lh-copy measure">
-          Decide on a single direction.
+          Decide on a single direction
           </span>
         </li>
         <li class="pa3 pa4-ns">
@@ -50,9 +50,9 @@ export default () => (
             Review, Refine, Reiterate
           </b>
           <span class="f5 db lh-copy measure">
-            Discuss design with stakeholders.<br />
-            Integrate feedback; seek approvals.<br />
-            Reiterate if necessary.
+            Discuss design with stakeholders<br />
+            Integrate feedback; seek approvals<br />
+            Reiterate if necessary
           </span>
         </li>
         <li class="pa3 pa4-ns">
@@ -60,10 +60,10 @@ export default () => (
             Production
           </b>
           <span class="f5 db lh-copy measure">
-          Choose the right tech stack for the experience.<br />
-          Set up the development environment, and assemble team.<br />
-          Appply a distributed network of developers to finish the repo.<br />
-          Test and deploy the app.<br />
+          Choose the right tech stack for the experience<br />
+          Set up the development environment, and assemble team<br />
+          Appply a distributed network of developers to finish the repo<br />
+          Test and deploy the app<br />
           [High Five!]</span>
         </li>
       </ul>
