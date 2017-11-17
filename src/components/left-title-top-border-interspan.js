@@ -5,10 +5,10 @@ import React from 'react'
 export default () => (
 <article class="cf ph3 ph5-ns pv5">
   <header class="fn fl-ns w-50-ns pr4-ns">
-    <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">
+    <h1 class="f2 lh-title fw7 mb3 mt0 pt3 bt bw2">
       InterSpan Resources
     </h1>
-    <h2 class="f3 fw4 dark-gray lh-title">
+    <h2 class="f3 fw4 lh-title">
       Spanning the gap between employer and employee.
     </h2>
     <time class="f6 ttu tracked gray">Design, Consulting & Web Development</time>

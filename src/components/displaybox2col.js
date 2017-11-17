@@ -4,7 +4,7 @@ import React from 'react'
 export default () => (
   <section className="center mw9">
     <div className="cf">
-      <p className="fl f4 lh-copy pa3 ph4-ns ph6-l w-50">
+      <p className="fl lh-copy pa3 ph4-ns ph6-l f6 ttu tracked gray w-50">
       WHAT WE DO
       </p>
     </div>
