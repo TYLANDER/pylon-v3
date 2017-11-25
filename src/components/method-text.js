@@ -8,25 +8,25 @@ export default () => (
         </p>
       <ul class="list pl0 pl6-m pl7-l tl">
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">Define the Problem</b>
-          <span class="f5 db lh-copy measure">
+          <b class="db f6 ttu tracked mb1">Define the Problem</b>
+          <span class="f6 tracked db lh-copy measure">
             Scoping<br />
             Human Centered Research<br />
             Persona & User Journey Creation<br />
           </span>
         </li>
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">
+          <b class="db f6 ttu tracked mb1">
           Generate Ideas
           </b>
-          <span class="f5 db lh-copy measure">
+          <span class="f6 tracked db lh-copy measure">
           Strategic insights inform direction<br />
           The Void provides ideas<br />
           Multiple directions explored
           </span>
         </li>
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">
+          <b class="db f6 ttu tracked mb1">
             Design Review
           </b>
           <span class="f5 db lh-copy measure">
@@ -34,10 +34,10 @@ export default () => (
           </span>
         </li>
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">
+          <b class="db f6 ttu tracked mb1">
             Rapid Prototyping
           </b>
-          <span class="f5 db lh-copy measure">
+          <span class="f6 tracked db lh-copy measure">
             User Journey Mapping<br />
             Wireframes<br />
             Tachyons (Functional CSS)<br />
@@ -46,20 +46,20 @@ export default () => (
           </span>
         </li>
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">
+          <b class="db f6 ttu tracked mb1">
             Review, Refine, Reiterate
           </b>
-          <span class="f5 db lh-copy measure">
+          <span class="f6 tracked db lh-copy measure">
             Discuss design with stakeholders<br />
             Integrate feedback; seek approvals<br />
             Reiterate if necessary
           </span>
         </li>
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">
+          <b class="db f6 ttu tracked mb1">
             Production
           </b>
-          <span class="f5 db lh-copy measure">
+          <span class="f6 tracked db lh-copy measure">
           Choose the right tech stack for the experience<br />
           Set up the development environment, and assemble team<br />
           Appply a distributed network of developers to finish the repo<br />

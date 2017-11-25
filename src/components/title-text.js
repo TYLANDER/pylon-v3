@@ -8,7 +8,7 @@ export default () => (
         </p>
       <ul class="list pl6-m pl7-l tl">
         <li class="pa3 pa4-ns">
-          <b class="db f3 mb1">Define the Problem</b>
+          <b class="db f6 ttu tracked mb1">Define the Problem</b>
           <span class="f5 db lh-copy measure">
             Scoping<br />
             Human Centered Research<br />

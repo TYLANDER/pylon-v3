@@ -15,15 +15,15 @@ export default () => (
   </header>
   <div class="fn fl-ns w-50-ns">
     <p class="f5 lh-copy measure mt0-ns">
-      InterSpan Resources is a workforce staffing consultancy based in Chesterfi
-      eld Virginia. InterSpan has been providing good jobs since 1996.
+      InterSpan Resources is a workforce staffing consultancy based in Chesterfield
+      Virginia. InterSpan has been providing good jobs since 1996.
       In 2017 InterSpan was in dire need of a website redesign.
       A a company managing 500 employees at any given time, employee data is of upmost concern.
       InterSpan had an old Microsoft SQL Database porting to Microsoft Access on a local network.
       Pylon met with InterSpan to oversee the update of their website, integration of an online job application
       and integration of that application data into the InterSpan employee database.
     </p>
-    <img class="db w-100 mt4 mt5-ns" src="http://mrmrs.github.io/photos/010.jpg" alt="dusk skyline above a grassy rockface covered in trees."></img>
+    <img class="db w-100 mt4 mt5-ns shadow-4 mb4" src={require('../images/Interspan-Home-MacBook-Pro.png')} alt="Interspan MacBook Homepage"></img>
     <p>
       "Pylon was able to revamp all of our internal systems. With Tyler's advisement we were able to join the 21st century." -Mike Daugherty, CEO
      </p>

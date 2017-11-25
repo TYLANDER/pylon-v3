@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Nav2 from '../components/nav2'
 import BladeRight from '../components/blade-interspan'
-import BladeLeft from '../components/blade-left'
+import BladeLeft from '../components/blade-musclebutter'
 import Footer3 from '../components/footer3'
 import WorkHero from '../components/workhero'
 import WorkTitle from '../components/title-work'
