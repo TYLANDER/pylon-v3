@@ -12,5 +12,8 @@ export default () => (
       We solve problems with teams of smart creatives.<br />
       We accecpt payment in cryptocurrency.
     </p>
+    <p className=" f6 tracked fw4 measure link hover-purple lh-copy pa1">
+    Bitcoin Wallet: 1287564195348720
+    </p>
 </div>
 )

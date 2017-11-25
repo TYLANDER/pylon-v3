@@ -10,7 +10,7 @@ export default () => (
 
     <section className="fl w-100 w-40-ns mb4 mb0-ns">
       <span className="f4 f6-l near-white">Reach Out</span><br />
-      <a className="near-white f2  fw6 tl link dim dib pv3 mt2 mb4 mb0-l" href="mailto:tyler@pylon.design" >
+      <a className="near-white f2  fw6 tl link hover-purple dib pv3 mt2 mb4 mb0-l" href="mailto:tyler@pylon.design" >
         hello@pylon.design
       </a>
     </section>
