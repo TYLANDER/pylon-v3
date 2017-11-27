@@ -11,7 +11,7 @@ export default () => (
         <li class="pa3 pa4-ns">
           <b class="db f6 ttu tracked mb3">World Class Creatives</b>
           <span class="f6 db tracked lh-copy measure">
-            Pylon is a modular organization. Teams form on a per-project basis.
+            Pylon is a modular organization. Teams are formed on a per-project basis.
             All teams are best-in-class and selected based on their specific set of skills.
           </span>
         </li>

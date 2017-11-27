@@ -11,8 +11,8 @@ export default () => (
   <div className='sans-serif'>
     <Nav2 />
     <MethodHero />
-    <MethodText />
     <DisplayBox />
+    <MethodText />
     <Footer3 />
   </div>
 )

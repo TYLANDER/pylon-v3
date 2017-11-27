@@ -20,16 +20,16 @@ export default () => (
           Generate Ideas
           </b>
           <span class="f6 tracked db lh-copy measure">
-          Strategic insights inform direction<br />
-          The Void provides ideas<br />
-          Multiple directions explored
+          Human-Centered insights inform strategy<br />
+          Identify ideas through the constraints of the problem<br />
           </span>
         </li>
         <li class="pa3 pa4-ns">
           <b class="db f6 ttu tracked mb1">
-            Design Review
+            Collaborative Review
           </b>
           <span class="f5 db lh-copy measure">
+          Workshop ideas<br />
           Decide on a single direction
           </span>
         </li>
@@ -38,7 +38,6 @@ export default () => (
             Rapid Prototyping
           </b>
           <span class="f6 tracked db lh-copy measure">
-            User Journey Mapping<br />
             Wireframes<br />
             Tachyons (Functional CSS)<br />
             Atomic Design System<br />
@@ -62,8 +61,7 @@ export default () => (
           <span class="f6 tracked db lh-copy measure">
           Choose the right tech stack for the experience<br />
           Set up the development environment, and assemble team<br />
-          Appply a distributed network of developers to finish the repo<br />
-          Test and deploy the app<br />
+          Develop, test and deploy the app<br />
           [High Five!]</span>
         </li>
       </ul>

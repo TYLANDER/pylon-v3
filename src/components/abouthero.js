@@ -12,7 +12,7 @@ export default () => (
   <header className='mw8-m mw9-l center ph3 ph5-l pb6'>
     <div className='cf mt0'>
       <div className="fl dib w-100 w-40-l mt0-m mv5-ns mb5 fw4 f4 f3-ns v-mid-ns pr0 pr4-m">
-        <h1 className="dib f-4 f-5-ns fw5 bt bb bw2 mv2 mv3-m  lh-title">Intrinsic Value</h1>
+        <h1 className="dib f-4 f-5-ns fw5 bt bb bw2 mv2 mv3-m  lh-title">We Believe in Intrinsic Value</h1>
           <p className="dib f6 tracked fw4 measure-wide  lh-copy">
             We are a digital design and innovation studio.<br />
             We solve problems with teams of smart creatives.<br />
