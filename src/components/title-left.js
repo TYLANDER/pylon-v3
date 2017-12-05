@@ -8,9 +8,13 @@ export default () => (
        Pylon - A modular design studio.
     </p>
     <p className="dib f6 tracked measure lh-copy pv1 mv0">
-      We are a digital design and innovation studio.<br />
-      We solve problems with teams of smart creatives.<br />
-      We accecpt payment in cryptocurrency.
+    As a digital design and innovation studio, we look out into digital space
+    and see boundless potential. We see concepts and ideas adrift in the void,
+    needing only a spark to become a signal in the noise. We deliver the spark.
+    Pylon helps bring form to function and direction to the abstract. We use
+    teams of smart creatives to solve problems and help clients realize the full
+    potential of their digital aspirations. After all, what matters isn’t what
+    you put into the void, but what you bring back out of it.
     </p>
     <p className=" f6 tracked fw4 measure link hover-purple lh-copy pa1">
     Bitcoin Wallet: 1287564195348720
