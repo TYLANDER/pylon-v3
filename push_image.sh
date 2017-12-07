@@ -1,6 +1,8 @@
 #!/bin/bash
 
 push_image () {
+  rm -rf ./build
+  npm run build
   docker build -t gcr.io/jackzampolin-web/pylonserver:latest .
   gcloud docker -- push gcr.io/jackzampolin-web/pylonserver:latest
 }

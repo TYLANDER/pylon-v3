@@ -4,8 +4,8 @@ RUN npm install -g serve
 
 EXPOSE 3000
 
-COPY . /pylonserver
+COPY ./build /usr/src/pylonserver
 
-WORKDIR /pylonserver
+WORKDIR /usr/src/pylonserver
 
-CMD ['serve', '-s', 'build']
+CMD ["serve", "-s", ".", "-p", "3000"]
