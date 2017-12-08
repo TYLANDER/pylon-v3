@@ -17,7 +17,7 @@ export default () => (
     you put into the void, but what you bring back out of it.
     </p>
     <p className=" f6 tracked fw4 measure link hover-purple lh-copy pa1">
-    Bitcoin Wallet: 1287564195348720
+    Bitcoin Public Key: 3JMsgW7t2iUVsEkspis5kiqomginvF41tj
     </p>
 </div>
 )
