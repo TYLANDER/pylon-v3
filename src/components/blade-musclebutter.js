@@ -11,7 +11,7 @@ export default () => (
             <p class="f6  lh-copy measure">
 MuscleButter, a manual therapy practice in San Francisco, needed a site to serve clientele and present its unique thesis on movement re-education and pain prevention. Pylon created Muscle Butter's brand identity in addition to designing and developing the site.
             </p>
-              <a className="f4 f6-ns lh-copy purple link hover-light-purple" href="https://www.themusclebutter.com/">Visit Webstie ></a>
+              <a className="f4 f6-ns lh-copy purple link hover-light-purple" href="https://www.themusclebutter.com/">Visit Website ></a>
           </div>
           <div class="w-100 w-50-ns ph3 pl5-ns">
             <a href="https://www.themusclebutter.com/"><img src={require('../images/Musclebutter_macbook_07May17.png')} class="shadow-4" alt="Interspan"></img></a>
