@@ -7,6 +7,7 @@ import AboutPage from './AboutPage'
 import HomePage from './HomePage'
 import WorkPage from './WorkPage'
 import MethodPage from './MethodPage'
+import BlogPage from './BlogPage'
 import InterspanPage from './interspan-page'
 
 //currently the "/" path loads Homepage first and then loads the other components from Main.js.
@@ -17,6 +18,7 @@ const Routes = () => (
       <Route path="/about" component={AboutPage}/>
       <Route path="/work" component={WorkPage}/>
       <Route path="/method" component={MethodPage}/>
+      <Route path="/blog" component={BlogPage}/>
       <Route path="/interspan" component={InterspanPage}/>
     </div>
   </Router>

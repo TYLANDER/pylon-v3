@@ -18,6 +18,7 @@ export default () => (
             <li className="dib dim mb1 mr3 mr4-ns f5 f6-ns fw3 dark-gray"><a className="ttu tracked link near-black hover-purple no-underline" href="/about/">about</a></li>
             <li className="dib dim mb1 mr3 mr4-ns f5 f6-ns fw3 dark-gray"><a className="ttu tracked link near-black hover-purple no-underline" href="/method/">method</a></li>
             <li className="dib dim mb1 mr3 mr4-ns f5 f6-ns fw3 dark-gray"><a className="ttu tracked link near-black hover-purple no-underline" href="/work/">work</a></li>
+            <li className="dib dim mb1 mr3 mr4-ns f5 f6-ns fw3 dark-gray"><a className="ttu tracked link near-black hover-purple no-underline" href="/blog/">blog</a></li>
 
         </ul>
       </div>
