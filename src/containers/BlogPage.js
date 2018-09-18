@@ -21,7 +21,7 @@ export default () => (
     <p class="f5 lh-copy measure mt0-ns">
       Construction of the backbone of Pylon is underway. The resource miners are now on the planet, generating Pylons.
       Pylon will soon be able to bootstrap its design team from payments with its mining equipment.
-      For the next few months that design team will likely be Tyler and some remote workers. 
+      For the next few months that design team will likely be Tyler and remote workers like Zeeshan.
     </p>
     <p class="f5 lh-copy measure">
       All typography consists of letters. These appear either in the form of a
